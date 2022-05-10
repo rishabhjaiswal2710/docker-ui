@@ -5,11 +5,11 @@
 .header-content{
     font-size:18px;
     background-color:#439CE6;
-    min-height:55px ;
+    min-height:60px ;
     display:flex;
     
 }
 svg{
-    margin-top:17px;
-    margin-left:70px;
+    margin-top:19px;
+    margin-left:75px;
 }

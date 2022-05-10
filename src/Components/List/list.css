@@ -1,0 +1,20 @@
+.list-content{
+    display:flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 66%;
+    padding: 10px;
+    margin-top:25px;
+    border-bottom:1px solid grey;
+}
+.list-content p{
+    font-size:20px;
+    color: #445d6e;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 24px;
+    margin-bottom: 3px;
+
+}
+.list-content .operate{
+    color: #54d1b0;
+}
