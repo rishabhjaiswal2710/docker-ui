@@ -1,0 +1,20 @@
+.hero-content{
+    
+    height:40px;
+    background: #54d1b0;
+    display:flex;
+    justify-content:space-between;
+    margin: auto;
+    width: 66%;
+    padding: 10px;
+    margin-top:15px;
+    
+}
+.hero-content h1{
+    color: #fff;
+    font-size:25px;
+}
+.hero-content h2{
+    color: #fff;
+    font-size:20px;
+}

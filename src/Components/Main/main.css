@@ -1,0 +1,21 @@
+.main-content{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:30px;
+}
+.main-button{
+    background: #fff;
+    border: 1.5px solid;
+    border-color: #0087C8;
+    color: #0087C8;
+    text-decoration: none;
+    font-size:20px;
+    padding:5px 10px;
+}
+.main-content h1{
+    color: #445d6e;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 29px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
